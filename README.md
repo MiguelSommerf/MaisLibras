@@ -1,2 +1,2 @@
 # MaisLibras
-MaisLibras - Tradução escrita e auditiva para Libras.
+O projeto MaisLibras visa ajudar pessoas com deficiência auditiva e que não sabem ler em português escrito. Através de um software, disponibilizaremos uma animação que traduz para Libras o texto selecionado na tela. O software também terá a funcionalidade de tradução de áudio para Libras. Nós também criaremos um filtro de linguagem coloquial para linguagem formal, com o intuito de facilitar a compreensão do usuário sobre o conteúdo.
